@@ -29,6 +29,7 @@ func main() {
 	fmt.Println(num)
 	fmt.Println(err)
 	fmt.Println(user)
+	fmt.Println(user)
 
 }
 
