@@ -30,6 +30,7 @@ func main() {
 	fmt.Println(err)
 	fmt.Println(user)
 	fmt.Println(user)
+	fmt.Println(user)
 
 }
 
